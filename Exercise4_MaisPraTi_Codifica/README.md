@@ -8,7 +8,7 @@ Um portfólio web com visual suave, moderno e interativo , com foco em tecnologi
 - 📱 Layout responsivo para dispositivos móveis
 - 🧑‍💻 Código limpo e semântico (HTML, CSS e JS)
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas 
 
 - HTML
 - CSS
