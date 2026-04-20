@@ -1,0 +1,25 @@
+/* Cores e contornos */
+header, main, footer {
+  background-color: #f0f8ff;
+  color: #333;
+  border: 2px solid #ccc;
+  margin: 10px;
+  padding: 15px;
+}
+
+/* h2 com sublinhado e fonte maior */
+h2 {
+  font-size: 1.5em;
+  text-decoration: underline;
+}
+
+/* Classe destaque */
+.destaque {
+  font-style: italic;
+  background-color: #fff8dc;
+}
+
+/* ID importante */
+#importante {
+  border-top: 5px solid red;
+}
